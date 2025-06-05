@@ -116,7 +116,7 @@ filetree
 解密算法速率为: 275633.958104 Kb/s
 
 
-![alt text](image.png)
+![alt text](images/image_o3.png)
 
 ---
 
