@@ -1,7 +1,7 @@
 # AES TOOL - AES加解密工具
 
 
-Hongchuan No.24020012
+Redtecher No.24XXXXXX
 
 ## 简介
 
@@ -132,5 +132,5 @@ MIT
 
 ---
 
-> By.Hongchuan No.24020012  
+> By.Redtecher No.24XXXXXX 
 > https://github.com/redtecher
